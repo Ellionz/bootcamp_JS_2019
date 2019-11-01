@@ -1,0 +1,17 @@
+const a = 7
+let b = 3
+
+b += a // b= b + a - Atribuição aditiva, junto com a atribuição está ser feita um adição
+console.log(b)
+
+b -= 4 // b = b - 4
+console.log(b)
+
+b *= 2 // b = b * 2
+console.log(b)
+
+b /= 2 // b = b / 2
+console.log(b)
+
+b %= 2 // b = b % 2 - resto
+console.log(b)
